@@ -1,5 +1,5 @@
-### elementUi+php实现上传功能，支持拖拽
+### elementUi+php 实现拖拽上传文件
 
-![](http://enoblog.qiniudn.com/17-7-9/6270990.jpg)
+![](http://img.e7no.com/17-7-9/29985522.jpg)
 
-![](http://enoblog.qiniudn.com/17-7-9/6270990.jpg)
+![](http://img.e7no.com/17-7-9/29985522.jpg)
